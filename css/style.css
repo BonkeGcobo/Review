@@ -1,7 +1,7 @@
 #navbar {
   display: flex;
   justify-content: flex-end;
-  background-color:#BE3144;
+  background-color:#be3144;
   margin-bottom: 0px;
 }
 
@@ -11,9 +11,9 @@ a {
   color: white;
 }
 
-li{
-  display:inline;
-  margin-right:10px;
+li {
+  display: inline;
+  margin-right: 10px;
 }
 
 #welcome-section{
